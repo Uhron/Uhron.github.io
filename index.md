@@ -17,6 +17,7 @@ In this repository there are some modular arithmetic bases for cryptology. There
 And there are also exponentiation algorithms to optimize the calculations and to make the attacks we mentioned earlier difficult.
 
 [Link to support information about my crypto repo](./_site/crypto.md)
+
 [Link to the crypto repo](https://github.com/Uhron/crypto)
 
 * * *
@@ -28,4 +29,5 @@ In this repository there are bases and examples of `linear regression` models, `
 The **format will be jupyther** or python programs illustrating and describing the data trained in different ways. 
 
 [Link to support information about my computational learning repo](./_site/apc.md)
+
 [Link to the computational learning repo](https://github.com/Uhron/Computational_learning)
