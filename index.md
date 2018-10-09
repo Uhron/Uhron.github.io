@@ -2,122 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## Álex Vázquez 
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> Computer engineering student at UAB. I love learn new things. 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Awesome coworker @dvd42 and @Jtroncho 
+>
+> Other jobs in @STW-UAB
 
-### Header 3
+# Cryptology 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+In this repository there are some modular arithmetic bases for cryptology. There are `encryption algorithms` with **maskara** to avoid hardware attacks (side channel attack, difference power analysis and so on).
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+And there are also exponentiation algorithms to optimize the calculations and to make the attacks we mentioned earlier difficult.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+[Link to support information about my crypto repo](./_site/crypto.md)
+[Link to the crypto repo](https://github.com/Uhron/crypto)
 
 * * *
 
-### Here is an unordered list:
+# Computational learning
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+In this repository there are bases and examples of `linear regression` models, `logistic regresion`, `classification with SVMs`, `deep learning` and so on. It is used above all the libraries of **sklearn** and **matplotlib** in python language to work on these examples. 
 
-### And an ordered list:
+The **format will be jupyther** or python programs illustrating and describing the data trained in different ways. 
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Link to support information about my computational learning repo](./_site/apc.md)
+[Link to the computational learning repo](https://github.com/Uhron/Computational_learning)
