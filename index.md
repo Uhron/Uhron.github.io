@@ -12,6 +12,8 @@ layout: default
 
 # Cryptology 
 
+![Branching](./crypto.png)
+
 In this repository there are some modular arithmetic bases for cryptology. There are `encryption algorithms` with **maskara** to avoid hardware attacks (side channel attack, difference power analysis and so on).
 
 And there are also exponentiation algorithms to optimize the calculations and to make the attacks we mentioned earlier difficult.
@@ -28,6 +30,10 @@ In this repository there are bases and examples of `linear regression` models, `
 
 The **format will be jupyther** or python programs illustrating and describing the data trained in different ways. 
 
+![Branching](./bigdatahome.png)
+
 [Link to support information about my computational learning repo](./_site/apc.md)
 
 [Link to the computational learning repo](https://github.com/Uhron/Computational_learning)
+
+* * *
