@@ -1,18 +1,48 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+<style>
+ul {
+    opacity: 0.6;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+li {
+    float: left;
+}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+li a:hover {
+    background-color: #111;
+}
+</style>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/news/">News</a></li>
+  <li><a href="/about/">About</a></li>
+</ul>
 
+<br/>
 
-[jekyll-organization]: https://github.com/jekyll
+## Álex Vázquez
+
+> Computer engineering student at UAB. I love learn new things.
+>
+> Awesomes excoworkers @dvd42 and @Jtroncho
+> 
+> Other jobs in @STW-UAB
+
+[See my repositories with my code](https://github.com/Uhron)

@@ -1,18 +1,44 @@
 ---
 layout: default
+title: My Posts
 ---
+<style>
+ul {
+	opacity: 0.6;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
-## Álex Vázquez 
+li {
+    float: left;
+}
 
-> Computer engineering student at UAB. I love learn new things. 
->
-> Awesome coworker @dvd42 and @Jtroncho 
->
-> Other jobs in @STW-UAB
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/news/">News</a></li>
+<li><a href="/about/">About</a></li>
+</ul>
+
+<br/>
 
 # Cryptology 
 
-![Branching](./crypto.png)
+<img src="./crypt1.jpg" alt="cryptology image" style="width:1000px;height:200px;"> 
 
 In this repository there are some modular arithmetic bases for cryptology. There are `encryption algorithms` with **maskara** to avoid hardware attacks (side channel attack, difference power analysis and so on).
 
@@ -26,11 +52,11 @@ And there are also exponentiation algorithms to optimize the calculations and to
 
 # Computational learning
 
+<img src="./dataplot.jpg" alt="Machine learning image" style="width:1000px;height:200px;"> 
+
 In this repository there are bases and examples of `linear regression` models, `logistic regresion`, `classification with SVMs`, `deep learning` and so on. It is used above all the libraries of **sklearn** and **matplotlib** in python language to work on these examples. 
 
 The **format will be jupyther** or python programs illustrating and describing the data trained in different ways. 
-
-![Branching](./bigdatahome.png)
 
 [Link to support information about my computational learning repo](./_site/apc.md)
 
