@@ -4,7 +4,7 @@ title: My Posts
 ---
 <style>
 ul {
-	opacity: 0.6;
+	opacity: 0.5;
     list-style-type: none;
     margin: 0;
     padding: 0;
