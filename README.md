@@ -6,4 +6,4 @@ My approach to solving IT challenges revolves around understanding the basics an
 
 Welcome to my blog, where IT meets the great outdoors, and learning is a journey, not a race.
 
-This blog is a fork from: https://github.com/barryclark/jekyll-now
+The blog structure is from: https://github.com/barryclark/jekyll-now
